@@ -61,8 +61,6 @@
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j_400x400.png" alt="Heroku" height="50" /></a>  
 <a href="https://www.serverless.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*UlcrcIvTwuRqIh4Vfp3r2w.png" alt="Serverless" height="50" /></a>  
 <a href="https://www.iis.net" target="_blank"><img style="margin: 10px" src="https://blog.kakaocdn.net/dn/bh50PC/btq2RkwKysN/HFbl3p0jPXW3cmKbnda2P1/img.png" alt="IIS" height="50" /></a>  
-<a href="https://www.linode.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/L/linode-logo-0B22204438-seeklogo.com.png" alt="Linode" height="50" /></a>  
-
 
   
 </div>
