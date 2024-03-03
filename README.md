@@ -70,7 +70,8 @@
 
 <br/>  
 
-## Recent Blog Posts  
+## Recent Blog Posts
+- [Learn how to document JavaScript/TypeScript code using JSDoc & Typedoc](https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h)
 - [Angular 17 Upgrade Guide with SSR](https://dev.to/mirzaleka/angular-17-upgrade-guide-with-ssr-1nib)   
 - [Share Data Between JavaScript Modules](https://mirzaleka.medium.com/share-data-between-javascript-modules-90318575cb29)  
 - [JavaScript Module System](https://mirzaleka.medium.com/javascript-module-system-aaaafe870275)  
