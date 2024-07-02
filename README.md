@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently developing microservices using Node.js, .NET & Angular  
 - ✍️  Blogging about Web Development on [Medium](https://mirzaleka.medium.com/) and [Practical Dev](https://dev.to/mirzaleka)  
-- 📚 Learning about Docker and containers
+- 📚 Exploring popular web technologies
 - 💬 I'm offering support and guidance to less experienced colleagues
 
 <br/>  
