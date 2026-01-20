@@ -25,7 +25,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" height="50" /></a>  
+<a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" alt="Angular" height="50" /></a>  
 <a href="https://rxjs.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" alt="RXJS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>   
 </div>
@@ -54,12 +54,12 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/www.theseattledataguy.com/wp-content/uploads/2021/04/aws-logo.png?ssl=1" alt="AWS" height="50" /></a> 
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/960px-Amazon_Web_Services_Logo.svg.png?20170912170050" alt="AWS" height="50" /></a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://activemq.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Apache_ActiveMQ_Logo.svg/1280px-Apache_ActiveMQ_Logo.svg.png" alt="ActiveMQ" height="50" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://www.serverless.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1400/1*UlcrcIvTwuRqIh4Vfp3r2w.png" alt="Serverless" height="50" /></a> 
 </div>
-
 
 </td></tr></table>  
 
