@@ -2,10 +2,9 @@
 
   </br>
 
-- 🔭 I’m currently developing microservices using Node.js, .NET & Angular  
-- ✍️  Blogging about Web Development on [Medium](https://mirzaleka.medium.com/) and [Practical Dev](https://dev.to/mirzaleka)  
-- 📚 Exploring popular web technologies
-- 💬 I'm offering support and guidance to less experienced colleagues
+- 🔭 I’m currently developing microservices using Node.js, .NET & Angular
+- ✍️ Blogging about software on [Medium](https://mirzaleka.medium.com/) and [Dev Community](https://dev.to/mirzaleka)  
+- 🤖 Exploring popular technologies
 
 <br/>  
 
@@ -67,7 +66,7 @@
 
 ## Recent Blog Posts
 - [Medium](https://mirzaleka.medium.com/)
-- [The Practical Dev](https://dev.to/mirzaleka)
+- [Dev Community](https://dev.to/mirzaleka)
 - [GitHub Gists](https://gist.github.com/MirzaLeka/)
 <br/>  
 
@@ -93,13 +92,3 @@
   
 
 <br/>  
-
-
-<div align="center">
-            <a href="https://paypal.me/mirzaleka" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
